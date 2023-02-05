@@ -34,6 +34,8 @@
 
 	.skills__item {
 		color: var(--neutral-eight);
+		font-size: 1rem;
+		line-height: 1.25rem;
 		font-weight: 400;
 	}
 
